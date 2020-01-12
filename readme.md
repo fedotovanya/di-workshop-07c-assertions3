@@ -9,7 +9,13 @@ Open a terminal. Navigate to the folder you would like to use using ```cd <DIREC
 ``` git clone https://github.com/adaapp/di-workshop-07c-assertions3.git```
 ### OR
 ### Open the Repo in Repl.it
-Clone the Repo, then click this button.
+Clone the repo to your own account.
+Go to [repl.it](https://repl.it), click the IMPORT REPO button at the top left. Copy and paste the address of your repo.
+It should look like 
+``` git clone https://github.com/<YOUR NAME>/di-workshop-07c-assertions3.git```
+If you are not going to save any of the changes, you can use:
+[![Run on Repl.it](https://repl.it/badge/github/adaapp/di-workshop-07c-assertions3)](https://repl.it/github/adaapp/di-workshop-07c-assertions3)
+You can set the 'run' button to use ```npm test``` if you would like.
 
 ### THEN
 ### Solving Tests
