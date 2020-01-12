@@ -4,9 +4,11 @@ You should then either >
 # Setup
 ### Clone the Repo (harder)
 Open a terminal. Navigate to the folder you would like to use using ```cd <DIRECTORY PATH>```
+You can then clone the folder using
 ``` git clone https://github.com/<YOUR NAME>/di-workshop-07c-assertions3.git```
 (alternatively if you are not going to save the changes you can use)
 ``` git clone https://github.com/adaapp/di-workshop-07c-assertions3.git```
+Open the project using a code editor, such as VS code (```code .```)
 ### OR
 ### Open the Repo in Repl.it
 Clone the repo to your own account.
