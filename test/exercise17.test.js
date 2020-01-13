@@ -15,6 +15,9 @@ var Plane = function() {
   this.wings = 2;
 };
 
+var myCar = new Car();
+var airlinePlane = new Plane();
+
 /** Delete this line and the one at the bottom when you're ready for exercise 17
     
     suite('Unit Tests Exercise 17 - Object TypeOf',function(){
